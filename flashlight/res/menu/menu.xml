@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/color_menu" android:title="Color" android:icon="@android:drawable/ic_menu_preferences">
+        <menu>
+            <item android:id="@+id/menu_blue" android:title="Blue" />
+            <item android:id="@+id/menu_cyan" android:title="Cyan" />
+            <item android:id="@+id/menu_green" android:title="Green" />
+            <item android:id="@+id/menu_magenta" android:title="Magenta" />
+            <item android:id="@+id/menu_red" android:title="Red" />
+            <item android:id="@+id/menu_white" android:title="White" />
+            <item android:id="@+id/menu_yellow" android:title="Yellow" />
+        </menu>
+    </item>
+    <item android:id="@+id/flash_menu" android:title="Flash" android:icon="@android:drawable/ic_menu_camera">
+        <menu>
+            <item android:id="@+id/menu_flash_normal" android:title="Normal" />
+            <item android:id="@+id/menu_flash_frantic" android:title="Quick" />
+            <item android:id="@+id/menu_flash_slow" android:title="Slow" />
+            <item android:id="@+id/menu_flash_sos" android:title="SOS" />
+            <item android:id="@+id/menu_flash_none" android:title="Off" />
+        </menu>
+    </item>
+    <item android:id="@+id/about_menu" android:title="About" android:icon="@android:drawable/ic_menu_info_details"/>
+</menu>
