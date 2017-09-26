@@ -8,7 +8,7 @@ Enjoy building these select APKs for Termux [projects,](https://github.com/sdrau
 
 ![Prism Screenshot](./bitpics/prism.png)
 
-#### When you press and momentarily hold the `volumeDown+power` buttons simultaneously on a smartphone, it takes a screenshot much like this one which shows the screen and the [the source code for this page](https://raw.githubusercontent.com/sdrausty/buildAPKs/master/docs/reallyEasilyBuildAndroidAPKsOnDevice.md) in [vim](http://www.vim.org/git.php) running on [Termux](./pages/asac) on [Android.](https://source.android.com/)
+#### When you press and momentarily hold the `volumeDown+power` buttons simultaneously on a smartphone, it takes a screenshot much like this one which shows the screen and the [the source code for this page](https://raw.githubusercontent.com/sdrausty/buildAPKsFlashlights/master/docs/index.md) in [vim](http://www.vim.org/git.php) running on [Termux](./pages/asac) on [Android.](https://source.android.com/)
 
 ![Screenshot](./bitpics/reallyEasilyBuildAndroidAPKsOnDevice.png)
 
