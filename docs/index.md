@@ -1,7 +1,7 @@
 [README](./README.md)
 These are the webpages for buildAPKsFlashlights. Please see [buildAPKs](https://sdrausty.github.io/buildAPKs/) for instructions. 
 
-Please contribute to this project through either [the issues page](https://github.com/sdrausty/buildAPKs/issues) or [pull requests.](https://github.com/sdrausty/buildAPKs/pulls) Now you don't need Google Play, F-Droid or other APK download sites to enjoy wonderfully working APKs on your smartphone and tablet; Thanks to [Termux](./pages/asac) and [Github.](https://github.com)
+Contribute to this project through either [the issues page](https://github.com/sdrausty/buildAPKs/issues) or [pull requests.](https://github.com/sdrausty/buildAPKs/pulls) Now you don't need Google Play, F-Droid or other APK download sites to enjoy wonderfully working APKs on your smartphone and tablet; Thanks to [Termux](./pages/asac) and [Github.](https://github.com)
 
 Enjoy building these select APKs for Termux [projects,](https://github.com/sdrausty/buildAPKs/tree/master/sources) and please find the time to post your feelings [here,](https://github.com/sdrausty/buildAPKs/issues) or [at this wiki.](https://github.com/sdrausty/buildAPKs/wiki
 )
